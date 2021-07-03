@@ -28,11 +28,11 @@ To answer the questions above, three datasets from the following sources were us
 
 ## 4. Data Wrangling
 
-To know more about this stage of the project explore the jupyter notebook located inside this repo's files.
+To know more about this stage of the project download and explore the jupyter notebook located inside this repo's files.
 
 ## 5. Exploratory Data Analysis and Visualization
 
-To know more about this stage of the project explore the jupyter notebook located inside this repo's files.
+To know more about this stage of the project download explore the jupyter notebook located inside this repo's files.
 
 ## 6. Conclusions
 
@@ -109,7 +109,9 @@ In my own experience, as a resident of Boston I have witnessed a high volume of 
 ## 7. Installation
 
 * Clone this repo into your computer.
-* Switch your devices directory to the the local repository folder path.
-* Run the python code using python 3 (if not installed yet )
+* Switch your device working directory to the repository folder path.
+* Option 1: Open the python notebook (.ipynb file) using Jupyter Notebook or Google Colab. Option 2: Open the python script (.py file) and rune it using your preferred editor.
 
 ## 8. Usage
+
+The code developed for this project although specific to the present analysis, could be used for comparing Blue Bikes ride-sharing patterns across different time frames with minor alterations. Also, the insigths provided can help the company plan for the demand of bikes depending on weather conditions, holidays, and observe the differences on the nature of the business before and during the pandemic.
